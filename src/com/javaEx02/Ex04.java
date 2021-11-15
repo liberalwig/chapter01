@@ -20,6 +20,7 @@ public class Ex04 {
 		
 		sc.close();
 		
+		//github실험중
 
 	}
 }
