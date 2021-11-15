@@ -29,6 +29,7 @@ public class Ex05 {
 		System.out.println("깃 테스트-버전02-2");
 		System.out.println("깃 테스트-버전02-3");
 		
+		System.out.println("깃 테스트-버전02-3");
 		
 		sc.close();
 	}
