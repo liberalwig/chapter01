@@ -1,4 +1,4 @@
-package com.javaEx03;//09.조건문 중 조건문 연습문제-4
+package com.javaEx03;//Done//09.조건문 중 조건문 연습문제-4
 
 import java.util.Scanner;
 
