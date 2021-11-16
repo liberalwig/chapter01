@@ -15,7 +15,7 @@ public class Ex09 {
 		
 		int code = sc.nextInt();
 		
-		if (code==1)
+		if (code==1) //2개 이상일 경우를 대비해서 대괄호 꼭 넣어주기. 이 또한 우연히 된 경우
 			System.out.println("R101호");
 
 		else if (code==2)

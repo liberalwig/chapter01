@@ -18,17 +18,21 @@ public class Ex08 {
 	
 		int num = sc.nextInt();
 
-		if (num<0)
-			System.out.println("음수입니다");
-
-		else if (num==0)
-			System.out.println("0입니다");
 		
-		else if (num%2==1)
+		//질문하면서 알게 된 건데, 해야될 일이 한 줄이면 {}이 괄호 생략 가능한데 두 개 이상일 시 항상 쳐야해. 내가 안 치고 우연히 된 경우임
+		if (num<0) { 
+			System.out.println("음수입니다");
+			}
+		else if (num==0) {
+			System.out.println("0입니다");
+			}
+		
+		else if (num%2==1) {
 			System.out.println("홀수입니다");
-		else if (num%2==0)
+			}
+		else if (num%2==0) {
 			System.out.println("짝수입니다");
-	
+			}
 		sc.close();
 	}
 
