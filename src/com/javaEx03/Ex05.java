@@ -24,5 +24,8 @@ public class Ex05 {
 	
 			sc.close();
 	}
-
+	
+	/*나는 다른 두 조건에 따라 각각의 정수형 변수를 만들었고(outcomehour vs outcomeover8) 강사님은 값 안 넣은 변수를 선언만 하고*/
+	//
+	
 }
