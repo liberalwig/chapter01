@@ -1,4 +1,4 @@
-package com.javaEx03; //09.조건문 중 swithc case문과 if문 비교(break없는 switch case)
+package com.javaEx03; //09.조건문 중 swithch case문과 if문 비교(break없는 switch case)
 					//다 ==라 할 지라도 열 두 달을 쓰는 건 아닐 것 같은데 그렇다고 짝홀 규칙이 있지도 않고 2월 예외달도 있음
 					////2021.11.16(화)1:41PM수업 중. 그냥 다 ==일일이 하는 거였다;;;; 근데 switch안 쓰고 혼자 한 거 됨.
 					//break 안 쓰면 다음 break 나올 때까지 넘어감. 강사님은 30일에 해당하는 거, 28일 쭉, 31일 쭉 써서 시작하심.
