@@ -5,14 +5,14 @@ public class Ex07 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int i = 0;
-		char star = '*';
-		
-		while (i<=6) {
-			System.out.println(star*i);
-			i++;
+		for (int y = 1; y<=6; y++) {
+			
+			(int x = 1;) {
+				System.out.print("*");
 		}
-		
+		System.out.println("");
+		}
+
 	}
 
 }
