@@ -1,4 +1,4 @@
-package com.javaEx03;//Done//09.조건문 중 조건문 연습문제-4//2021.11.16(화)10:58AM 수업 중 &&연산자로 두 조건 동시에 표현하기 배움
+package com.javaex.ex03;//Done//09.조건문 중 조건문 연습문제-4//2021.11.16(화)10:58AM 수업 중 &&연산자로 두 조건 동시에 표현하기 배움
 
 import java.util.Scanner;
 

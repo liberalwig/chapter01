@@ -1,6 +1,6 @@
 //2021년 11월 12일 금 13:40
 
-package com.javaEx02;
+package com.javaex.ex02;
 
 public class Ex01 {
 	public static void main(String[] args) {

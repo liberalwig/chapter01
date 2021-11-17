@@ -1,4 +1,4 @@
-package com.javaEx03;//Done// 09.조건문 중 if-else if else 연습문제(조건 ==)
+package com.javaex.ex03;//Done// 09.조건문 중 if-else if else 연습문제(조건 ==)
 					//강의실 번호를 특정하는 게 문제인걸까?//앞에서처럼 =아니라==
 					//고민:복수 개 이상 조건이 올 경우를 대비해 대괄호를 쓰고 한 조건이어도 br하는 건 알겠는데 내 눈엔 가독성 낮은데 어쩌지.
 					//모두 ==인 경우를 다음Ex에서 switch로 제시

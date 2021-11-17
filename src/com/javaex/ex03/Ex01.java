@@ -1,4 +1,4 @@
-package com.javaEx03;// Done
+package com.javaex.ex03;// Done
 
 import java.util.Scanner;
 

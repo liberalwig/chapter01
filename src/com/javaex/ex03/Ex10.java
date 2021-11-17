@@ -1,4 +1,4 @@
-package com.javaEx03;//09.조건문 중 switch-case 조건문
+package com.javaex.ex03;//09.조건문 중 switch-case 조건문
 					//2021.11.16(화)12:04PM수업, 모든 조건문이 ==인 케이스를 위한 새 문법(switch)제시.
 
 import java.util.Scanner;

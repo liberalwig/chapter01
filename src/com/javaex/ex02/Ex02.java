@@ -1,4 +1,4 @@
-package com.javaEx02;
+package com.javaex.ex02;
 
 import java.util.Scanner; //ctrl+Shift+O 동시
 
