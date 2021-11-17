@@ -6,9 +6,14 @@ public class Ex04 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		for (int i = 0; i<11 ; i++)
-		System.out.println(i+"까지의 합은 "+sum);
-		System.out.println("1부터 10까지의 정수의 합은 55입니다.");
+		
+		int sum = 0;
+		for (int i = 1; i<11 ; i++) {
+			sum = sum + i;
+			System.out.println(i+"까지의 합은 "+sum+"입니다.");
+		}
+		
+		System.out.println("1부터 10까지의 정수의 합은 "+sum+"입니다.");
 		
 		/*while로 해보기
 		
