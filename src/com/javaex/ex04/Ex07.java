@@ -20,3 +20,25 @@ public class Ex07 {
 	}
 
 }
+
+
+/*cf) 영림 씨 방법: 아, 이게 내가 처음에 생각했던 거랑 더 가깝다. 이렇게 하며 for안에 for를 넣을 필요 없이 하나면 돼
+public class Ex07 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String star = "*"
+		sum = sum + "*"
+		
+		for(int y = 1; y<=6; y++){
+			System.out.println(star);
+			star = star + "*";
+			}
+			System.out.println("");
+		}	
+
+	}
+
+}
+*/

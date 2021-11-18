@@ -1,4 +1,11 @@
-package com.javaex.ex03;//Done
+package com.javaex.ex03;//twice Done//09.조건문 중 if조건문
+						//2021.11.18(목)11:05
+
+/*
+[문제]
+점수를 입력받아
+점수가 60점 이상이면 “합격입니다.” 를 출력하세요
+*/
 
 import java.util.Scanner;
 
