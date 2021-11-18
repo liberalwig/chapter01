@@ -1,7 +1,10 @@
-import java.util.Scanner;
-
-//"while을 count세는 손에 잡는 기계 개념으로 이해해보세요"
+package com.javaex.ex04;//2021.11.17(수)수업, "while을 count세는 손에 잡는 기계 개념으로 이해해보세요"
 						//그런데 tail변수를 잡고보니 똑같은 일을 하는 변수i가 있음을 발견=>tail없애고 해보기
+
+/*
+[예제]
+다음과 같이 출력되는 프로그램을 작성하세요
+ */
 
 public class Ex01 {
 
