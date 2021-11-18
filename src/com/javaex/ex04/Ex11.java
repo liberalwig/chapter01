@@ -1,4 +1,6 @@
-package com.javaex.ex04;//10.반복문 중 반복문continue//2021.11.18(목)14:03//출제포인트:||, continue
+package com.javaex.ex04;//10.반복문 중 반복문continue//2021.11.18(목)14:03
+						//출제포인트:||, continue, "20까지 정수 중에 2의배수 뺴고 3의배수 빼고 출력해줘"
+							
 
 /*
 [문제]
@@ -21,3 +23,19 @@ public class Ex11 {
 	}
 
 }
+
+
+/* 방법2. continue문법을 쓰고 싶지 않다면, if안에 들어가고 아무 것도 안 하고(그러니까 밑에 못 가서 출력 안 돼)
+ 
+ if( (i%2==0) || (i%3==0) ) {
+ }
+ 
+ else {
+ 	Sytem.out.println(i);
+ }
+ 
+  
+ 
+ * 
+ */
+
