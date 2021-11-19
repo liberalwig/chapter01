@@ -35,6 +35,7 @@ public class Ex07 {
 			System.out.println("C등급");
 		}
 		
+		
 		else if (grade>=70 && grade<=79) {
 			System.out.println("D등급");
 		}
