@@ -1,4 +1,5 @@
-package com.javaex.ex05;//11.배열 중 math.random()을 이용하여 미니로또 만들기/2021.11.18(목)16:36
+package com.javaex.ex05;//twice Done//11.배열 중 math.random()을 이용하여 미니로또 만들기/2021.11.18(목)16:36
+						//2021.11.21(일)19:46-20:55 한별과 디스코드 의논, 설명 듣기//
 
 /*
 [문제]
@@ -11,6 +12,38 @@ public class Ex01 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		/*
+		int n01 = (int)(Math.random()*45)+1;
+		int n02 = (int)(Math.random()*45)+1;
+		int n03 = (int)(Math.random()*45)+1;
+		int n04 = (int)(Math.random()*45)+1;
+		int n05 = (int)(Math.random()*45)+1;
+		int n06 = (int)(Math.random()*45)+1;
+		*/
+		
+		int[] dice = new int[6];
+		
+		for(int i = 0; i<dice.length; i++) {
+			dice[i] = (int)(Math.random()*45)+1;
+			System.out.println("dice["+(i+1)+"] 은(는)"+ dice[i]);
+		}
+		
+	}
+
+}
+
+
+		/*
+		int[] dice = new int[50];
+   
+
+      for(int i = 0; i < dice.length; i++) {
+         dice[i] = (int)((Math.random()*45)+1);
+         System.out.println("no" + (i+1) + "=" + dice[i]);
+      
+		 */
+		
+		/*수업 중
 		int n01 = (int)(Math.random()*45)+1;  
 		int n02 = (int)(Math.random()*45)+1;
 		int n03 = (int)(Math.random()*45)+1;
@@ -33,7 +66,9 @@ public class Ex01 {
 		
 		for(int i=0; i<6; i++) {
 			System.out.println(ball[i]);
-		}
+		
+		*/
+		
 				
 		/*
 		for(int i = 0; i<6; i++) {
@@ -50,6 +85,4 @@ public class Ex01 {
 		System.out.println(n05);
 		System.out.println(n06);
 		*/
-	}
 
-}
